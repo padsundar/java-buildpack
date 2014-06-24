@@ -17,7 +17,7 @@
 ---
 tomcat:
   version: 7.0.+
-  repository_root: "{default.repository.root}/tomcat"
+  repository_root: https://drive.google.com/folderview?id=0B_F1cHY-HN4jWThBRDVHY184aFU&usp=sharing
 lifecycle_support:
   version: 2.+
   repository_root: "{default.repository.root}/tomcat-lifecycle-support"
